@@ -1,6 +1,3 @@
 # Python-Practice
-Python-Practice
-
-Added some text
-
-some update has done in the readme file that has to commit to git repository now
+This is repo contains the Python practice notebooks and other EDA Try-outs materials.
+You can navigate through each notebook to understand each concepts.
